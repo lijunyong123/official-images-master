@@ -1,0 +1,21 @@
+# see https://couchdb.apache.org/
+# also the announce@couchdb.apache.org mailing list
+
+Maintainers: Joan Touzet <wohali@apache.org> (@wohali)
+GitRepo: https://github.com/apache/couchdb-docker
+GitCommit: 3bcc626d30623789b4750d076f059bcd010c2a04
+
+Tags: latest, 2.3.1, 2.3, 2
+Architectures: amd64
+Directory: 2.3.1
+
+Tags: 2.3.0
+Architectures: amd64
+Directory: 2.3.0
+
+# 1.x is no longer supported by the Apache CouchDB team.
+#
+# dev, dev-cluster versions must not be published officially per
+# ASF release policy, see:
+# http://www.apache.org/dev/release-distribution.html#unreleased
+# The middle two bullet points are the issue.

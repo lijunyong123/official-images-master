@@ -1,0 +1,24 @@
+Maintainers: Christian Bader <christian.bader@crate.io> (@christianbader),
+             Michael Beer <michael.beer@crate.io> (@mikethebeer),
+             Mathias Fußenegger <mathias@crate.io> (@mfussenegger),
+             Christian Haudum <christian.haudum@crate.io> (@chaudum),
+             Mika Naylor <mika@crate.io> (@autophagy)
+GitRepo: https://github.com/crate/docker-crate.git
+
+Tags: 3.2.6, 3.2, latest
+Architectures: amd64, arm64v8
+GitCommit: 5ff27a74cfa0ce2e27e0e690ab23ef1700f60f30
+
+Tags: 3.1.6, 3.1
+Architectures: amd64, arm64v8
+GitCommit: f15504034e1d0ea67d4517daec2ff4adf1435d65
+
+Tags: 3.0.7, 3.0
+GitCommit: ca1f030be8be51c126fa908400aa031be6eb0412
+
+Tags: 2.3.11, 2.3
+GitCommit: f15780fc923017c66040c4baf79f2efd506655ac
+
+Tags: 2.2.7, 2.2
+GitCommit: 771c9b60ffbb03c2692e09a2539c7411327d7e3d
+

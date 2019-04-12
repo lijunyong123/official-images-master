@@ -1,0 +1,15 @@
+Maintainers: Jérémy Jacquier-Roux <jeremy.jacquier-roux@bonitasoft.org> (@JeremJR),
+             Guillaume Rosinosky <guillaume.rosinosky@bonitasoft.org> (@guillaumerosinosky),
+             Truc Nguyen <truc.nguyen@bonitasoft.org> (@tnguyen1),
+             Laurent Leseigneur <laurent.leseigneur@bonitasoft.org> (@laurentleseigneur)
+GitRepo: https://github.com/Bonitasoft-Community/docker_bonita.git
+
+Tags: 7.7.5, 7.7
+Architectures: amd64, arm64v8, ppc64le
+GitCommit: d291374f0cdbf3c78fa8784c4930511dcffba9c9
+Directory: 7.7
+
+Tags: 7.8.3, 7.8, latest
+Architectures: amd64, arm64v8, ppc64le
+GitCommit: fd5991e6216d30f45ff6625f962645aaaae84ec5
+Directory: 7.8

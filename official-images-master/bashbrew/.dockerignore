@@ -1,0 +1,6 @@
+*.md
+*.sh
+.dockerignore
+Dockerfile*
+go/bin
+!.bashbrew-arch-to-goenv.sh

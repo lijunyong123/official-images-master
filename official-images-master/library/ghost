@@ -1,0 +1,25 @@
+# this file is generated via https://github.com/docker-library/ghost/blob/b153b80c4e9ce17834f6b90e50c25a48a0c515e5/generate-stackbrew-library.sh
+
+Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
+             Joseph Ferguson <yosifkit@gmail.com> (@yosifkit)
+GitRepo: https://github.com/docker-library/ghost.git
+
+Tags: 2.19.4, 2.19, 2, latest
+Architectures: amd64, arm32v7, arm64v8, ppc64le, s390x
+GitCommit: 3190a0fb7e792bcf032cd2f54ee4d7d6b52cd208
+Directory: 2/debian
+
+Tags: 2.19.4-alpine, 2.19-alpine, 2-alpine, alpine
+Architectures: amd64, arm32v6, arm64v8, i386, ppc64le, s390x
+GitCommit: 3190a0fb7e792bcf032cd2f54ee4d7d6b52cd208
+Directory: 2/alpine
+
+Tags: 1.25.7, 1.25, 1
+Architectures: amd64, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: c4b0064aa0ef96e7fea06bbbd41ab82722a7f80c
+Directory: 1/debian
+
+Tags: 1.25.7-alpine, 1.25-alpine, 1-alpine
+Architectures: amd64, arm32v6, arm64v8, i386, ppc64le, s390x
+GitCommit: c4b0064aa0ef96e7fea06bbbd41ab82722a7f80c
+Directory: 1/alpine

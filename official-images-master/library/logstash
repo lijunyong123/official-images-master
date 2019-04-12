@@ -1,0 +1,17 @@
+# this file is generated via https://github.com/docker-library/logstash/blob/18d3da965bb702a12edd9d387afd16bd965c5b1c/generate-stackbrew-library.sh
+
+Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
+             Joseph Ferguson <yosifkit@gmail.com> (@yosifkit)
+GitRepo: https://github.com/docker-library/logstash.git
+
+Tags: 6.7.0
+GitCommit: 40ea47940cb4bf309f2633238ffe434192d262d0
+Directory: 6
+
+Tags: 5.6.16, 5.6, 5
+GitCommit: aeeca991ff2187ff26c8dd1595e792c53c497d5f
+Directory: 5
+
+Tags: 5.6.16-alpine, 5.6-alpine, 5-alpine
+GitCommit: aeeca991ff2187ff26c8dd1595e792c53c497d5f
+Directory: 5/alpine

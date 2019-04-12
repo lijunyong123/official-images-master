@@ -1,0 +1,45 @@
+Maintainers: Yaroslav Halchenko <debian@onerussian.com> (@yarikoptic)
+GitRepo: https://github.com/neurodebian/dockerfiles.git
+GitCommit: 8d76dde3997f00ee58813317eeb2765ea14a4a74
+
+Tags: trusty, nd14.04
+Directory: dockerfiles/trusty
+
+Tags: trusty-non-free, nd14.04-non-free
+Directory: dockerfiles/trusty-non-free
+
+Tags: xenial, nd16.04
+Directory: dockerfiles/xenial
+
+Tags: xenial-non-free, nd16.04-non-free
+Directory: dockerfiles/xenial-non-free
+
+Tags: bionic, nd18.04
+Directory: dockerfiles/bionic
+
+Tags: bionic-non-free, nd18.04-non-free
+Directory: dockerfiles/bionic-non-free
+
+Tags: jessie, nd80
+Directory: dockerfiles/jessie
+
+Tags: jessie-non-free, nd80-non-free
+Directory: dockerfiles/jessie-non-free
+
+Tags: stretch, nd90, latest
+Directory: dockerfiles/stretch
+
+Tags: stretch-non-free, nd90-non-free, non-free
+Directory: dockerfiles/stretch-non-free
+
+Tags: buster, nd100
+Directory: dockerfiles/buster
+
+Tags: buster-non-free, nd100-non-free
+Directory: dockerfiles/buster-non-free
+
+Tags: sid, nd
+Directory: dockerfiles/sid
+
+Tags: sid-non-free, nd-non-free
+Directory: dockerfiles/sid-non-free

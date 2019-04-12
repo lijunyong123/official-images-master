@@ -1,0 +1,59 @@
+Maintainers: Alex Soto <asotobu@gmail.com> (@lordofthejars),
+             Otavio Santana <otaviojava@apache.org> (@otaviojava)
+GitRepo: https://github.com/tomitribe/docker-tomee.git
+GitCommit: 345cfefbfe4ef0956f0ea2caf1af2595111f5a85
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, s390x
+
+Tags: 8-jre-1.7.5-jaxrs
+Directory: 8-jre-1.7.5-jaxrs
+
+Tags: 8-jre-1.7.5-plume
+Directory: 8-jre-1.7.5-plume
+
+Tags: 8-jre-1.7.5-plus
+Directory: 8-jre-1.7.5-plus
+
+Tags: 8-jre-1.7.5-webprofile
+Directory: 8-jre-1.7.5-webprofile
+
+Tags: 8-jre-7.0.4-plume
+Directory: 8-jre-7.0.4-plume
+
+Tags: 8-jre-7.0.4-plus
+Directory: 8-jre-7.0.4-plus
+
+Tags: 8-jre-7.0.4-webprofile
+Directory: 8-jre-7.0.4-webprofile
+
+Tags: 8-jre-7.0.5-plume
+Directory: 8-jre-7.0.5-plume
+
+Tags: 8-jre-7.0.5-plus
+Directory: 8-jre-7.0.5-plus
+
+Tags: 8-jre-7.0.5-webprofile
+Directory: 8-jre-7.0.5-webprofile
+
+Tags: 8-jre-7.1.0-plume
+Directory: 8-jre-7.1.0-plume
+
+Tags: 8-jre-7.1.0-plus
+Directory: 8-jre-7.1.0-plus
+
+Tags: 8-jre-7.1.0-microprofile
+Directory: 8-jre-7.1.0-microprofile
+
+Tags: 8-jre-7.1.0-webprofile
+Directory: 8-jre-7.1.0-webprofile
+
+Tags: 8-jre-8.0.0-M2-plume
+Directory: 8-jre-8.0.0-M2-plume
+
+Tags: 8-jre-8.0.0-M2-plus
+Directory: 8-jre-8.0.0-M2-plus
+
+Tags: 8-jre-8.0.0-M2-microprofile
+Directory: 8-jre-8.0.0-M2-microprofile
+
+Tags: 8-jre-8.0.0-M2-webprofile, latest
+Directory: 8-jre-8.0.0-M2-webprofile

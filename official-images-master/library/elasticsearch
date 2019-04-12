@@ -1,0 +1,17 @@
+# this file is generated via https://github.com/docker-library/elasticsearch/blob/7de84d3d08d1544e90e3a2e9cacda3f3e17037e2/generate-stackbrew-library.sh
+
+Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
+             Joseph Ferguson <yosifkit@gmail.com> (@yosifkit)
+GitRepo: https://github.com/docker-library/elasticsearch.git
+
+Tags: 6.7.0
+GitCommit: a1a331cbea5676d959fc796d140228d38d691e3d
+Directory: 6
+
+Tags: 5.6.16, 5.6, 5
+GitCommit: 9f14d95917805470ce1303d61add6ae195d24c70
+Directory: 5
+
+Tags: 5.6.16-alpine, 5.6-alpine, 5-alpine
+GitCommit: 9f14d95917805470ce1303d61add6ae195d24c70
+Directory: 5/alpine
